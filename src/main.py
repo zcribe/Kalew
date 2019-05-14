@@ -1,0 +1,1 @@
+from .seeds.kalev_1850 import KALEV
