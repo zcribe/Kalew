@@ -1,4 +1,4 @@
-![Kalev Icon](http://url/to/img.png)
+![Kalev Icon](https://github.com/zcribe/Kalew/blob/master/images/kalev.svg)
 
 # Kalew
  Random text generator that creates vaguely Estonian looking text for placeholder or design purposes.
